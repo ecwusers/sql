@@ -28,7 +28,7 @@ ORDER BY
 				<query name="Prompt_Schema">
 			<source>
 				
-			<sqlQuery name="SQL2" dataSource="eClinicalWorks">
+			<sqlQuery name="SQL2" dataSource="eClinicalWorks"> 
 			<sqlText>SELECT distinct
   TABLE_SCHEMA
 FROM
